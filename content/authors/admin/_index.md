@@ -1,39 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael Kofi Nelson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Big Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Suddath Global Logistics
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Big Data Analytics enthusiast with an aim to solve problems using data driven technologies to make strategic decisions and optimize resources. A wide experience in analyzing and drawing insights from large data sets using diverse knowledge in analytics and data mining. An ardent research scientist with over three (3) years of laboratory experience in research areas such as sampling, wastewater treatment systems, fuel oils, material synthesis, and hazardous waste management. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Business Intelligence
+- Data Mining
+- Machine Learning
+- Exploratory Data Analysis
+- Data Visualization
+- R programming
+- Python programming
+- Databases
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: ""
+    institution: ""
+    year: ""
+  - course: MSc. Computer Science - Big Data Analytics
+    institution: Florida Polytechnic University
+    year: 2020
+  - course: BSc in Environmental & Safety Engineering
+    institution: University of Mines & Technology, Tarkwa, Ghana
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
