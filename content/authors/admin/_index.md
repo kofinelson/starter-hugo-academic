@@ -30,9 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: ""
-    institution: ""
-    year: ""
+  - course: "Chemical Engineering PhD Student"
+    institution: "University of South Florida"
+    year: "2022 to present"
   - course: MSc. Computer Science - Big Data Analytics
     institution: Florida Polytechnic University
     year: 2020
