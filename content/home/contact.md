@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: kofinelson2@outlook.com
+  phone: 813 542 9205
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 4202 E Fowler Ave
+    city: Tampa
+    region: FL
+    postcode: '33620'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '28.0587'
+    longitude: '-82.4139'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/boatio_'
     - icon: video
       icon_pack: fas
       name: Zoom Me
